@@ -1,1 +1,1 @@
-# Data-Science-portfolio
+The goal of this project is to create a map of Break and Enter crime at apartments in Toronto by using one of the most popular unsupervised learning algorithms - clustering with K-Means. Moreover, the main focus of this project is to display the centroids of the clusters, rather than examining the clusters themselves. The data used for this project is available [here](http://data.torontopolice.on.ca/datasets/mci-2014-to-2017?geometry=-80.064%2C43.544%2C-78.663%2C43.891).
